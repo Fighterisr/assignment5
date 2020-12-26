@@ -1,5 +1,3 @@
-from math import cos
-
 import sympy as sp
 
 def toDerivative(polynomial):
